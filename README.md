@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Thomas Edwin Santosa 👋
 
-<!--
-**thomedw/thomedw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with extensive experience in Java, Kotlin, and TypeScript. Recently, I've been exploring and contributing in Rust and C++. Below you can find some highlights of my work and contributions.
 
-Here are some ideas to get you started:
+## 🏢 Professional Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily contribute to private repositories as part of my work at UPVIZ (PT Katalis Indonesia Santosa). However, there are a few projects with partial public access that you can check out:
+
+- [Banyuwangi Core](https://github.com/ptkis/banyuwangi-core)
+- [Banyuwangi Dashboard UI](https://github.com/ptkis/banyuwangi-dashboard-ui)
+
+Please note that the documentation for these projects is separate and not open-source.
+
+## 💼 Company Repository
+
+For more information about our company repositories, visit: [PTKIS GitHub](https://github.com/ptkis)
+
+## 🌟 LeetCode
+
+I also enjoy solving problems on LeetCode. Feel free to check out my profile and see my progress:
+
+- [Thomas Edwin on LeetCode](https://leetcode.com/u/thomaskatalis)
+
+## 🚀 Languages and Tools
+
+- **Java**: I have decades of experience coding in Java.
+- **Kotlin**: Kotlin is my go-to for modern, concise code.
+- **TypeScript**: I utilize TypeScript for front-end development.
+- **Rust & C++**: Recently, I’ve been contributing using Rust and C++.
+
+## 📫 Let's Connect
+
+Feel free to reach out if you want to discuss technology, collaborations, or any interesting projects!
+
+- [LinkedIn](https://linkedin.com/in/thomaskatalis)
+- [X](https://x.com/thomaskatalis)
+
+Thanks for visiting my profile!
