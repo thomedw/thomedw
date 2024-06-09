@@ -17,7 +17,7 @@ For more information about our company repositories, visit: [PTKIS GitHub](https
 
 ## 🌐 Company Website
 
-Visit our company website: [UPVIZ] (https://katalisindonesia.com)
+Visit our company website: [UPVIZ](https://katalisindonesia.com)
 
 ## 🌟 LeetCode
 
