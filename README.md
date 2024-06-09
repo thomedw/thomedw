@@ -30,9 +30,10 @@ I also enjoy solving problems on LeetCode. Feel free to check out my profile and
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you want to discuss technology, collaborations, or any interesting projects!
+I am open for work and always interested in new opportunities and collaborations. Feel free to reach out if you want to discuss technology, collaborations, or any interesting projects!
 
 - [LinkedIn](https://linkedin.com/in/thomaskatalis)
 - [X](https://x.com/thomaskatalis)
+- [Telegram](https://t.me/thomaskatalis)
 
 Thanks for visiting my profile!
