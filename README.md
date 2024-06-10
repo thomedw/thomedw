@@ -32,6 +32,12 @@ I also enjoy solving problems on LeetCode. Feel free to check out my profile and
 - **TypeScript**: I utilize TypeScript for front-end development.
 - **Rust & C++**: Recently, I’ve been contributing using Rust and C++.
 
+## 🏆 Awards
+
+- **Huawei Cloud APAC 2022 Top 40 Finalists**: Issued by Huawei Cloud
+  - Bagifoto, our product, has been selected as one of the top 40 finalists.
+  - <a href="https://developer.huaweicloud.com/intl/en-us/competition/apac2022.html#:~:text=while%20Corroborating%20Welfare-,Bagifoto,-Balianers.com" target="_blank">Learn more</a>
+
 ## 📫 Let's Connect
 
 I am open for work and always interested in new opportunities and collaborations. Feel free to reach out if you want to discuss technology, collaborations, or any interesting projects!
