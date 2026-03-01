@@ -1,49 +1,48 @@
-# Hi there, I'm Thomas Edwin Santosa 👋
+# Hi, I'm Thomas Edwin Santosa
 
-I'm a passionate software developer with extensive experience in Java, Kotlin, and TypeScript. Recently, I've been exploring and contributing in Rust and C++. Below you can find some highlights of my work and contributions.
+Software engineer based in Jakarta, Indonesia, with 15+ years of experience building systems in Java, Kotlin, TypeScript, and Rust. I care about well-designed APIs, reliable distributed systems, computer vision, and AI.
 
-## 🏢 Professional Work
+I write about these topics on my [blog](https://thomedw.github.io/blog/).
 
-I primarily contribute to private repositories as part of my work at UPVIZ (PT Katalis Indonesia Santosa). However, there are a few projects with partial public access that you can check out:
+## Blog
 
-- [Banyuwangi Core](https://github.com/ptkis/banyuwangi-core)
-- [Banyuwangi Dashboard UI](https://github.com/ptkis/banyuwangi-dashboard-ui)
+I write about systems engineering, API design, and distributed systems at [thomedw.github.io/blog](https://thomedw.github.io/blog/).
 
-Please note that the documentation for these projects is separate and not open-source.
+Recent posts:
+- [Idempotency](https://thomedw.github.io/blog/idempotency) — Why `f(f(x)) = f(x)` matters in payment systems and message queues
 
-## 💼 Company Repository
+## Tech Stack
 
-For more information about our company repositories, visit: [PTKIS GitHub](https://github.com/ptkis)
+**Languages**
 
-## 🌐 Company Website
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-Visit our company website: [UPVIZ](https://katalisindonesia.com)
+**Frameworks & Tools**
 
-## 🌟 LeetCode
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-I also enjoy solving problems on LeetCode. Feel free to check out my profile and see my progress:
+## Awards
 
-- [Thomas Edwin on LeetCode](https://leetcode.com/u/thomaskatalis)
+- **Huawei Cloud APAC 2022 — Top 40 Finalist** with [Bagifoto](https://developer.huaweicloud.com/intl/en-us/competition/apac2022.html)
 
-## 🚀 Languages and Tools
+## GitHub Stats
 
-- **Java**: I have decades of experience coding in Java.
-- **Kotlin**: Kotlin is my go-to for modern, concise code.
-- **TypeScript**: I utilize TypeScript for front-end development.
-- **Rust & C++**: Recently, I’ve been contributing using Rust and C++.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thomedw&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomedw&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+</p>
 
-## 🏆 Awards
+## Let's Connect
 
-- **Huawei Cloud APAC 2022 Top 40 Finalists**: Issued by Huawei Cloud
-  - Bagifoto, our product, has been selected as one of the top 40 finalists.
-  - <a href="https://developer.huaweicloud.com/intl/en-us/competition/apac2022.html#:~:text=while%20Corroborating%20Welfare-,Bagifoto,-Balianers.com" target="_blank">Learn more</a>
-
-## 📫 Let's Connect
-
-I am open for work and always interested in new opportunities and collaborations. Feel free to reach out if you want to discuss technology, collaborations, or any interesting projects!
-
-- [LinkedIn](https://linkedin.com/in/thomaskatalis)
-- [X](https://x.com/thomaskatalis)
-- [Telegram](https://t.me/thomaskatalis)
-
-Thanks for visiting my profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomaskatalis)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thomaskatalis)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thomaskatalis)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/thomaskatalis)
