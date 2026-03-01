@@ -32,13 +32,6 @@ Recent posts:
 
 - **Huawei Cloud APAC 2022 — Top 40 Finalist** with [Bagifoto](https://developer.huaweicloud.com/intl/en-us/competition/apac2022.html)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomedw&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomedw&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
-</p>
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomaskatalis)
