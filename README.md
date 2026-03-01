@@ -35,7 +35,7 @@ Recent posts:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomedw&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thomedw&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomedw&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
 </p>
 
