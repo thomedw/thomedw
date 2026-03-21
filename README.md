@@ -11,23 +11,6 @@ I write about systems engineering, API design, and distributed systems at [thome
 Recent posts:
 - [Idempotency](https://thomedw.github.io/blog/idempotency) — Why `f(f(x)) = f(x)` matters in payment systems and message queues
 
-## Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-**Frameworks & Tools**
-
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ## Open Source Projects
 
 - **[loftr-rs](https://github.com/thomedw/loftr-rs)** — A Rust implementation of LoFTR for local feature matching
@@ -37,6 +20,23 @@ Recent posts:
 ## Awards
 
 - **Huawei Cloud APAC 2022 — Top 40 Finalist** with [Bagifoto](https://developer.huaweicloud.com/intl/en-us/competition/apac2022.html)
+
+## Tech Stack
+
+**Languages**
+- Java
+- Kotlin
+- TypeScript
+- Rust
+
+**Frameworks & Tools**
+- Spring
+- React
+- Docker
+- OpenCV
+- PyTorch
+- Tokio
+- Actix
 
 ## Let's Connect
 
