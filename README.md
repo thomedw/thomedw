@@ -28,6 +28,12 @@ Recent posts:
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
+## Open Source Projects
+
+- **[loftr-rs](https://github.com/thomedw/loftr-rs)** — A Rust implementation of LoFTR for local feature matching
+
+  [![crates.io](https://img.shields.io/crates/v/loftr.svg)](https://crates.io/crates/loftr)
+
 ## Awards
 
 - **Huawei Cloud APAC 2022 — Top 40 Finalist** with [Bagifoto](https://developer.huaweicloud.com/intl/en-us/competition/apac2022.html)
